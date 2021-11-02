@@ -12,15 +12,10 @@ static int getPosY() {
 void affiche();
 
 ```
-            Figure
-        /      |     \ 
-       /       |      \
-	  /	       |       \
-	 /		   |        \
-	/		   |         \
-Rectangle  Ellipse    Triangle
- 	|          | 
- Square     Circle  
+
+		  Triangle
+Figure -> Ellipse   -> Circle
+		  Rectangle -> Square
 
 * Exercice 2 [x]
 * Exercice 3 [x]
