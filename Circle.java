@@ -4,6 +4,11 @@ public class Circle extends Ellipse {
 	}
 
 	public void affiche() {
-		System.out.println("\nCIRCLE\nrayon: "+this.grand_rayon+"; (x,y) : ("+getPosX()+","+getPosY()+")");
+		System.out.println("\nCIRCLE\nrayon: "+super.grand_rayon+"; (x,y) : ("+getPosX()+","+getPosY()+")");
 	}
+
+	// @Override
+	// public double surface() {
+	// 	return Math.PI * Math.pow(super.grand_rayon, 2);
+	// }
 }

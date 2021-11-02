@@ -5,6 +5,11 @@ public class Carre extends Rectangle {
 
 	@Override
 	public void affiche() {
-		System.out.println("\nCARRE\nlargeur: "+this.largeur+"; hauteur: "+this.hauteur+"; (x,y) : ("+getPosX()+","+getPosY()+")");
+		System.out.println("\nCARRE\nlargeur: "+super.largeur+"; hauteur: "+super.hauteur+"; (x,y) : ("+getPosX()+","+getPosY()+")");
 	}
+
+	// @Override
+	// public double surface() {
+	// 	return Math.pow(super.largeur, 2);
+	// }
 }

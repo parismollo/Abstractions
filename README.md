@@ -19,6 +19,9 @@ Figure -> Ellipse   -> Circle
 
 * Exercice 2 [x]
 * Exercice 3 [x]
+* Exercice 4 [x]
+- Ajouter centres de figures preced. [ ] ?
+* Exercice 5 [x]
 
 
 Paris Mollo - L2 Info Groupe 3
