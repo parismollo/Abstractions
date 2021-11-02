@@ -1,6 +1,6 @@
 public class Rectangle extends Figure {
-	private final double largeur;
-	private final double hauteur;
+	protected final double largeur;
+	protected final double hauteur;
 
 	public Rectangle(int x, int y, int largeur, int hauteur) {
 		super(x, y);

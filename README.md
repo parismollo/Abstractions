@@ -12,18 +12,18 @@ static int getPosY() {
 void affiche();
 
 ```
-	            Figure
-
-	        /      |     \ 
-	       /       |      \
-		  /	       |       \
-		 /		   |        \
-		/		   |         \
-	Rectangle  Ellipse    Triangle
-	 	|          | 
-	 Square     Circle  
+            Figure
+        /      |     \ 
+       /       |      \
+	  /	       |       \
+	 /		   |        \
+	/		   |         \
+Rectangle  Ellipse    Triangle
+ 	|          | 
+ Square     Circle  
 
 * Exercice 2 [x]
+* Exercice 3 [x]
 
 
 Paris Mollo - L2 Info Groupe 3

@@ -1,6 +1,6 @@
 public class Ellipse extends Figure {
-	private final double grand_rayon;
-	private final double petit_rayon;
+	protected final double grand_rayon;
+	protected final double petit_rayon;
 
 	public Ellipse(double pr, double gr, int x, int y) {
 		super(x, y);
