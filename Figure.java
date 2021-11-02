@@ -6,11 +6,11 @@ public abstract class Figure {
 		this.posX = x;
 		this.posY = y;
 	}
-	static int getPosX() {
+	public final int getPosX() {
 		return this.posX;
 	}
-	static int getPosY() {
+	public final int getPosY() {
 		return this.posY;
 	}
-	void affiche();
+	public abstract void affiche();
 }

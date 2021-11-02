@@ -23,7 +23,7 @@ void affiche();
 	 	|          | 
 	 Square     Circle  
 
-* Exercice 2 []
+* Exercice 2 [x]
 
 
 Paris Mollo - L2 Info Groupe 3
