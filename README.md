@@ -13,9 +13,9 @@ void affiche();
 
 ```
 
-		  Triangle
+          Triangle
 Figure -> Ellipse   -> Circle
-		  Rectangle -> Square
+          Rectangle -> Square
 
 * Exercice 2  [x]
 * Exercice 3  [x]
@@ -25,7 +25,7 @@ Figure -> Ellipse   -> Circle
 * Exercice 6  [x]
 * Exercice 7  [x]
 * Exercice 8  [x]
-* Exercice 9  []
-* Exercice 10 []
+* Exercice 9  [x]
+* Exercice 10 [x]
 
 Paris Mollo - L2 Info Groupe 3
