@@ -17,11 +17,15 @@ void affiche();
 Figure -> Ellipse   -> Circle
 		  Rectangle -> Square
 
-* Exercice 2 [x]
-* Exercice 3 [x]
-* Exercice 4 [x]
+* Exercice 2  [x]
+* Exercice 3  [x]
+* Exercice 4  [x]
 - Ajouter centres de figures preced. [ ] ?
-* Exercice 5 [x]
-
+* Exercice 5  [x]
+* Exercice 6  [x]
+* Exercice 7  [x]
+* Exercice 8  [x]
+* Exercice 9  []
+* Exercice 10 []
 
 Paris Mollo - L2 Info Groupe 3
